@@ -1,0 +1,844 @@
+body {
+    background-color: #F5F5F5;
+}
+/*-----------------------------------------------------start indx------------------------------------*/
+/* start  navbar */
+.navbar {
+    background-color: #F5F5F5;
+}
+
+.nav-link {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #000;
+}
+
+.nav-item_1 img {
+    width: 100px;
+    margin-right: 180px;
+}
+
+.nav-item_6,
+.nav-item_7,
+.nav-item_8 {
+    width: 40px;
+    height: 40px;
+    background: #F3AD3933;
+    border-radius: 100px;
+}
+
+.nav-item_6 {
+    margin-right: 400px;
+}
+
+.nav-item_6 a,
+.nav-item_7 a,
+.nav-item_8 a {
+    margin-top: -17px;
+}
+
+.nav-item_7 a {
+    margin-right: -5px;
+}
+
+/* end  navbar */
+/* start section_1 */
+.section_1_text {
+    top: 244px;
+}
+
+.section_1_text h4 {
+    width: 479px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #232659;
+}
+
+.section_1_text p {
+    width: 400px;
+    font-family: 'DIN Next LT Arabic';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #232659;
+}
+
+.section_1_text button {
+    width: 298px;
+    height: 55px;
+    border-radius: 12px;
+    margin-top: 75px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+
+}
+
+#shep_sec_1 {
+    position: absolute;
+    width: 14px;
+    height: 66px;
+    background: #F19726;
+    border-radius: 100px;
+    margin-top: -70px;
+
+}
+
+.section_1_img {
+    top: 173px;
+}
+
+#img_bg {
+    position: absolute;
+    margin-right: -1350px;
+}
+
+.statistics {
+    background-color: #fff;
+    height: 373px;
+    margin-top: 320px;
+    border-radius: 29px;
+}
+.statistics h1 {
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #232659;
+}
+
+.line_10 {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: 100px;
+}
+
+.center {
+    width: 90%;
+    margin-right: 50px;
+}
+.slick-next{
+    margin-left: -35px !important;
+}
+
+.slick-prev{
+    margin-right: -35px !important;
+}
+
+.statistics_card {
+    width: 270px;
+    height: 185px;
+    background: #FAFAFA;
+    border-radius: 29px;
+}
+
+.statistics_card h1 {
+    font-family: 'SF Pro Display' ;
+    font-style: normal;
+    font-weight: 700 ;
+    font-size: 22px ;
+    line-height: 26px ;
+    color: #232659 ;
+    padding-right: 100px;
+    padding-top: 44px;
+}
+
+.statistics_card h2,
+.statistics_card h3 {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #232659;
+    padding-right: 100px;
+
+}
+
+.bg_statistics_icon {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+    background: rgba(241, 151, 38, 0.7);
+    margin-left: 170px;
+    margin-top: 38px;
+}
+
+
+
+/* end section_1 */
+/* start about_us */
+
+.about_us_bg_img {
+    background-color: #F19726;
+    width: 500PX;
+    height: 600px;
+    margin-top: 128px;
+}
+
+#img_about_us {
+    position: absolute;
+    margin-top: -16px;
+    margin-right: -532px;
+}
+
+.line {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: 80px;
+}
+
+.about_us h1 {
+    margin-top: 167px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+
+.about_us h4 {
+    font-family: 'DIN Next LT Arabic';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+
+.about_us h2,
+.about_us h3 {
+    font-family: 'DIN Next LT Arabic';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.about_us button {
+    width: 343px;
+    height: 55px;
+    border-radius: 12px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.0703846px;
+    color: #FFFFFF;
+}
+
+.shep {
+    position: absolute;
+    border-top: 2px solid #F19726;
+    border-right: 2px solid #F19726;
+    width: 140px;
+    height: 140px;
+    margin-top: -35px;
+    margin-right: -50px;
+
+
+}
+
+/* start about_us */
+/* start story */
+.story h1 {
+    margin-top: 137px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #232659;
+}
+
+.story h3,
+.story h4 {
+    font-family: 'DIN Next LT Arabic';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: right;
+    letter-spacing: 0.05em;
+    color: #232659;
+}
+
+#img_story {
+    margin-top: 137px;
+}
+
+.line_2 {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: 290px;
+}
+
+/* end story */
+.h1_servies {
+    margin-top: 137px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: 0.0703846px;
+    color: #272265;
+}
+
+.h1_servies span {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.0703846px;
+    color: #F3AD39;
+}
+
+.line_3 {
+    position: absolute;
+    margin-top: -80px;
+    margin-right: -495px;
+}
+
+.card {
+    width: 366px;
+    height: 475px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.77);
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(100px);
+}
+
+.card h3 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #232659;
+}
+
+.card h4 {
+    width: 350px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #272265;
+}
+
+.bg_img_servies {
+    width: 330px;
+    height: 274px;
+    background: #F8F8F8;
+    border-radius: 16px;
+}
+
+.h1_news {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+
+.line_4 {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: -530px;
+
+}
+
+.carousel-caption h5 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+
+}
+
+.carousel-caption p {
+    width: 900px;
+    font-family: 'DIN Next LT Arabic';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #FFFFFF;
+
+}
+
+.carousel-caption h4 {
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F0F0F0;
+
+}
+
+.carousel-caption a {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.view_more {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #fff;
+    text-decoration-line: underline;
+    margin-right: 1050px;
+
+}
+
+.customer_reviews h1 {
+    margin-top: 198px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.0703846px;
+    color: #272265;
+}
+
+.line_5 {
+    position: absolute;
+    margin-top: -45px;
+    margin-right: 82px;
+
+}
+
+.customer_reviews p {
+    width: 457px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 33px;
+    text-align: justify;
+    letter-spacing: 0.0703846px;
+    color: #272265;
+
+}
+
+.testimonial .second-content {
+    position: relative;
+}
+
+.testimonial-item {
+    display: none;
+    /*position: absolute;*/
+    background: rgba(255, 255, 255, 0.77);
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 29px 0px 29px 29px;
+    padding: 15px;
+    width: 550px;
+    height: 250px;
+
+}
+
+.testimonial-item.active {
+    display: block;
+    border-bottom: 4px solid #d84544;
+}
+
+.white {
+    color: white;
+}
+
+.swiper {
+    width: 500px;
+    height: 230px;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.swiper-slide {
+    background-color: white;
+    border-bottom: 4px solid #d84544;
+}
+
+.swiper-content {
+    font-size: 14px;
+}
+
+.testimonial-swiper {
+    top: 120px;
+    right: 45px;
+}
+
+.testimonial-content {
+    top: 150px;
+}
+
+.customer {
+    margin-top: 137px;
+}
+
+.customer_h1 {
+    margin-top: 137px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.line_6 {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: -490px;
+
+}
+
+
+.h1_Jobs span {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.0703846px;
+    color: #F3AD39;
+}
+
+.h1_Jobs {
+    padding-top: 137px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.0703846px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#crad_jobs_1 {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(100px);
+    border-radius: 16px;
+}
+
+.bg_img_jops {
+    width: 330px;
+    height: 274px;
+    background: #E3E3E3;
+    border-radius: 16px;
+
+}
+
+.btn_jops {
+    width: 348px;
+    height: 55px;
+    border-radius: 16px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.0703846px;
+    color: #FFFFFF;
+}
+
+.view_more_2 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #fff;
+    text-decoration-line: underline;
+    margin-right: 1080px;
+
+}
+
+.h1_number {
+    margin-top: 137px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #232659;
+
+}
+
+.line_7 {
+    position: absolute;
+    margin-right: -450px;
+    margin-top: -40px;
+
+}
+
+.card_number_1 {
+    width: 270px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.77);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(100px);
+    border-radius: 16px;
+}
+
+.icon_number_1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background: #FAFAFA;
+    border: 4px solid #F3AD39;
+    margin-top: -55px;
+    margin-right: 93px;
+}
+
+.card_number_1 h1 {
+    padding-top: 82px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.0703846px;
+    color: #232659;
+
+}
+
+.card_number_1 h2 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.0703846px;
+    color: #232659;
+
+}
+
+.number {
+    margin-top: 92px;
+}
+
+.shep_footer {
+    width: 1500px;
+    height: 760px;
+    background-image: url(../img/shep_footer.svg);
+    background-size: cover;
+    margin-top: 181px;
+}
+
+.email_text {
+    margin-top: 284px;
+}
+
+.email_text h1 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+
+.line_8 {
+    position: absolute;
+    margin-top: -40px;
+    margin-right: 120px;
+}
+
+.email_text p {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+#inp_email {
+    width: 466px;
+    height: 58px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(100px);
+    border: none;
+    border-radius: 29px;
+    margin-top: 44px;
+    padding-right: 12px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #232659;
+}
+
+#inp_emil_submit {
+    width: 305px;
+    height: 55px;
+    background: #262661;
+    border-radius: 29px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-top: 32px;
+
+}
+
+.img_email {
+    position: absolute;
+    margin-right: -500px;
+    margin-top: 182px;
+}
+
+footer {
+
+    height: 500px;
+    background: #FAFAFA;
+    box-shadow: 0px -6px 30px rgba(0, 0, 0, 0.05);
+    margin-top: -10px;
+
+}
+
+.logo_footer {
+    width: 300px;
+    margin-right: -32px;
+}
+
+.content_fouter_right p {
+    width: 338px;
+    font-family: 'DIN Next LT Arabic';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+    color: #272265;
+}
+
+footer h1 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: right;
+    letter-spacing: 0.0703846px;
+
+    /* 1 */
+
+    color: #232659;
+}
+
+footer ul li {
+    list-style: none;
+
+}
+
+footer ul li a {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 12px;
+    letter-spacing: 0.0703846px;
+    color: #232659;
+}
+
+.content_fouter_left ul li {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #232659;
+    width: 300px;
+
+}
+
+.end_foter_content {
+    background: #E7E7E7;
+    height: 56px;
+}
+
+.end_foter_content {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 0.0703846px;
+    color: #000000;
+
+}
+/*----------------------------------------------------- end indx ------------------------------------*/
+/*----------------------------------------------------- start conct us ------------------------------------*/
+.box_hed_page{
+    width: 1200px;
+    height: 117px;
+    background: rgba(255, 255, 255, 0.77);
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(100px);
+    border-radius: 18px;
+}
+.box_hed_bg_icon{
+    width: 86px;
+    height: 86px;
+    border-radius: 100px;
+    background-color: red;
+
+}
+/*----------------------------------------------------- end conct us ------------------------------------*/
+
+
